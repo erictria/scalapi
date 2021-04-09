@@ -1,0 +1,2 @@
+# scalapi
+Scala API server
